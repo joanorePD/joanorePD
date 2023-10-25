@@ -1,13 +1,13 @@
-# Hello, World! 👋
+# Hola a tothom, Hello everyone! 👋
 
-Welcome to my GitHub profile! I'm Joan, a passionate data science student with a love for reinforcement learning. Here's a bit about me in code and prose:
+Welcome to my GitHub profile! I'm Joan, a passionate data science student from Barcelona with a love for reinforcement learning. Here's a bit about me in code and prose:
 
 ```python
 class Me:
     def __init__(self):
         self.name = "Joan Orellana Rios"
         self.title = "Graduate Student in Data Science"
-        self.location = "Padova, Ialy"
+        self.location = "Padova, Italy"
         self.interests = ["Coding", "Data Science", "Reinforcement Learning", "Guitar", "Coffee"]
 
     def say_hello(self):
@@ -37,7 +37,7 @@ for platform, link in me.find_me_online().items():
 
 ## About Me
 
-I'm a student based in Padova, currently studying a master in Data Science. My journey in the tech world began with a fascination for everything that surrounds AI, more specifically computer vision.
+I'm a student currently based in Padova, Italy, although my heart belongs to Barcelona—my favorite city in the world and my birthplace 27 years ago. Currently pursuing a master's degree in Data Science, my tech journey commenced with a profound fascination for all things related to AI, particularly in the realm of computer vision.
 
 ## Let's Connect!
 
