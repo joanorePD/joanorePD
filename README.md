@@ -41,7 +41,7 @@ I'm a student currently based in Padova, Italy, although my heart belongs to Bar
 
 ## Let's Connect!
 
-- **LinkedIn:** [joanorellanarios](linkedin.com/in/joanorellanarios)
+- **LinkedIn:** [joanorellanarios](https://www.linkedin.com/in/joanorellanarios)
 - **Email:** [joanorellanarios@gmail.com](mailto:joanorellanarios@gmail.com)
 
 Feel free to explore my repositories and join me on this coding adventure! 🚀
