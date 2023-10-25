@@ -1,6 +1,6 @@
 # Hola a tothom, Hello everyone! 👋
 
-Welcome to my GitHub profile! I'm Joan, a passionate Data Science student from Barcelona with a love for reinforcement learning. Here's a bit about me in code and prose:
+Welcome to my GitHub profile! I'm Joan, a passionate Data Science student from Barcelona with a love for reinforcement learning. Here's a bit about me in code
 
 ```python
 class Me:
