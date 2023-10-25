@@ -1,45 +1,19 @@
 # Hola a tothom, Hello everyone! 👋
 
-Welcome to my GitHub profile! I'm Joan, a passionate Data Science student from Barcelona with a love for reinforcement learning. Here's a bit about me in code
+Welcome to my GitHub! I'm Joan, a passionate Data Science student from 🇪🇸 **Barcelona, Spain** currently living in 🇮🇹 **Padova, Italy**. 
 
-```python
-class Me:
-    def __init__(self):
-        self.name = "Joan Orellana Rios"
-        self.title = "Graduate Student in Data Science"
-        self.location = "Padova, Italy"
-        self.interests = ["Coding", "Data Science", "Reinforcement Learning", "Guitar", "Coffee"]
+- 🔭 I’m currently studying a master in the University of Padova. Expected graduation: July 2024 🚀
+- 🌱 My main focus in this master is to learn more about cutting-edge techniques in the field of AI, such as reinforcement learning and computer vision
+- 💼 In the past I've worked as Computer Vision Software Engineer and as a Data Analyst
+- 📫 How to reach me: [@joanorellanarios](https://www.linkedin.com/in/joanorellanarios/) on LinkedIn
+- Favourite things to do? Playing my electric guitar or coding while enjoying my mate 🧉
+  
+Stuff I code with:
 
-    def say_hello(self):
-        print(f"Hello, World! I'm {self.name}, a {self.title} based in {self.location}.")
-
-    def current_projects(self):
-        return ["MEB and Anomaly Detection", "Crypto-Currency Forecasting"]
-
-    def find_me_online(self):
-        return {
-            "LinkedIn": "linkedin.com/in/joanorellanarios",
-            "Email": "joanorellanarios@gmail.com",
-        }
-
-# Instantiate Me
-me = Me()
-
-# Say hello and share current projects
-me.say_hello()
-print("Current Projects:", me.current_projects())
-
-# Find me online
-print("Find Me Online:")
-for platform, link in me.find_me_online().items():
-    print(f"{platform}: {link}")
-```
-
-## About Me
-
-I'm a student currently based in Padova, Italy, although my heart belongs to Barcelona—my favorite city in the world. Currently pursuing a master's degree in Data Science, my tech journey commenced with a profound fascination for all things related to AI, particularly in the realm of computer vision.
-
-[![Linkedin Badge](https://img.shields.io/badge/-joanorellanarios-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joanorellanarios/)](https://www.linkedin.com/in/joanorellanarios/)
-[![Gmail Badge](https://img.shields.io/badge/-joanorellanarios-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanorellanarios@gmail.com)](mailto:joanorellanarios@gmail.com)
+<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
 Feel free to explore my repositories and join me on this coding adventure! 🚀
+
+
+
+
