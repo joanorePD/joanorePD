@@ -39,9 +39,8 @@ for platform, link in me.find_me_online().items():
 
 I'm a student currently based in Padova, Italy, although my heart belongs to Barcelona—my favorite city in the world. Currently pursuing a master's degree in Data Science, my tech journey commenced with a profound fascination for all things related to AI, particularly in the realm of computer vision.
 
-## Let's Connect!
-
-- **LinkedIn:** [joanorellanarios](https://www.linkedin.com/in/joanorellanarios)
-- **Email:** [joanorellanarios@gmail.com](mailto:joanorellanarios@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-joanorellanarios-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/joanorellanarios/)](https://www.linkedin.com/in/joanorellanarios/)
+[![Medium Badge](https://img.shields.io/badge/-@joanorellanarios-000000?style=flat&labelColor=000000&logo=Medium&link=https://medium.com/@joanorellanarios)](https://medium.com/@joanorellanarios)
+[![Gmail Badge](https://img.shields.io/badge/-joanorellanarios-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:joanorellanarios@gmail.com)](mailto:joanorellanarios@gmail.com)
 
 Feel free to explore my repositories and join me on this coding adventure! 🚀
