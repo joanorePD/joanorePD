@@ -3,7 +3,7 @@
 Welcome to my GitHub! I'm Joan, a passionate Data Science student from 🇪🇸 **Barcelona, Spain** currently living in 🇮🇹 **Padova, Italy**. 
 
 - 🔭 I’m currently studying a master in the University of Padova. Expected graduation: July 2024 🚀
-- 🌱 My main focus in this master is to learn more about cutting-edge techniques in the field of AI, such as reinforcement learning and computer vision
+- 🌱 My main focus in this master is to learn more about innovative techniques in the field of AI, such as reinforcement learning and computer vision
 - 💼 In the past I've worked as Computer Vision Software Engineer and as a Data Analyst
 - 📫 How to reach me: [@joanorellanarios](https://www.linkedin.com/in/joanorellanarios/) on LinkedIn
 - Favourite things to do? Playing my electric guitar or coding while enjoying my mate 🧉
