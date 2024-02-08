@@ -6,7 +6,6 @@ Welcome to my GitHub! I'm Joan, a passionate Data Science student from 🇪🇸 
 - 🌱 My main focus in this master is to learn more about innovative techniques in the field of AI, such as reinforcement learning and computer vision
 - 💼 In the past I've worked as Computer Vision Software Engineer and as a Data Analyst
 - 📫 How to reach me: [@joanorellanarios](https://www.linkedin.com/in/joanorellanarios/) on LinkedIn
-- Favourite things to do? Playing my electric guitar or coding while enjoying my mate 🧉
   
 Stuff I code with:
 
